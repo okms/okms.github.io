@@ -18,6 +18,10 @@ Pages are added under `/_pages`. They should have a defined permlink, e.g. /Abou
 
 ## General things to remember
 
+[GitHub documentation](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/testing-your-github-pages-site-locally-with-jekyll) on Jekyll and testing locally. Revisit a couple of times a year, make sure github-pages gem is up-to-date. 
+
+`bundle update github-pages`
+
 Example: what to do after updating Gemfile
 `bundle update`
 

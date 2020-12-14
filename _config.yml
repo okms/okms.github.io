@@ -84,7 +84,9 @@ author:
   name     : "Ole Kristian Mørch-Storstein"
   avatar   : "/assets/img/okms-avatar.jpg"
   bio      : "Engineer. Developer. Dad. Robot rights activist and occasional vampire hunter. CTO @ [Puzzlepart](https://puzzlepart.com)"
-  location : "Oslo, Norway"
+  twitter  : "okmsPrime"
+  github   : "okms"
+  linkedin : "olekms"
 
 
 footer:
@@ -95,6 +97,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/okms"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/olekms/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/okstor"

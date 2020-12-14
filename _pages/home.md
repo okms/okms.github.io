@@ -1,5 +1,4 @@
 ---
-title: "Ole Kristian Mørch-Storstein"
 layout: home
 permalink: /
 author_profile: true

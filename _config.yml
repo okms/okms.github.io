@@ -109,6 +109,8 @@ include: ["_pages"]
 
 exclude:
   - README.md
+  - Gemfile
+  - Gemfile.lock  
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -8,4 +8,6 @@ header:
    caption: "Photo credit: [**Arvid Malde**](https://unsplash.com/@omalley)"
 ---
 
- I am an engineer based in Oslo Norway. Here I work as a developer, architect and general wiseass as well as serving as the CTO of [Puzzlepart](https://puzzlepart.com).
+ I am an engineer based in Oslo Norway. Here I work as a developer and architect as well as serving as the CTO of [Puzzlepart](https://puzzlepart.com).
+
+ You can grab my [public GPG/PGP key](/assets/okms-public.asc) here if you need to verify a signature or send me encrypted email

@@ -11,6 +11,10 @@
 
 Pages are added under `/_pages`. They should have a defined permlink, e.g. /About/. Otherwise the same process as with posts. Pages which should be added to global navigation are added in the `/_data/navigation.yml` file
 
+
+## How to serve 
+
+`bundle exec jekyll serve`
 ## Theme info 
 
 - Theme is [Minimal Mistakes a Jekyll theme](https://mmistakes.github.io/minimal-mistakes)
@@ -29,6 +33,9 @@ Example: how to add a gem
 `bundle add github-pages`
 
 I created this using 
-`bundle exec jekyll _3.9.0_ new . --force`
+`bundle init`
+`exec jekyll _3.9.0_ new . --force`
+# add reference gem "github-pages", group: :jekyll_plugins
+`bundle update`
 
 

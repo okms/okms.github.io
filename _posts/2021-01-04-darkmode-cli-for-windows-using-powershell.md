@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Darkmode cli for Windows using PowerShell"
-date:   2021-01-04 11:00:00 +0100
+date:   2021-01-04 09:00:00 +0100
 excerpt: "Easily toggle darkmode from the Windows command line"
 header:
   overlay_filter: rgba(0, 0, 0, 0.6)

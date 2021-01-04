@@ -1,8 +1,8 @@
 ---
 layout: single
-title:  "Darkmode cli for Windows using PowerShell"
+title:  "Dark mode cli for Windows using PowerShell"
 date:   2021-01-04 09:00:00 +0100
-excerpt: "Easily toggle darkmode from the Windows command line"
+excerpt: "Easily toggle dark mode from the Windows command line"
 header:
   overlay_filter: rgba(0, 0, 0, 0.6)
   overlay_image: /assets/img/2021-01-04/header.jpg
@@ -17,7 +17,7 @@ On macOS I've recently grown very fond of [dark-mode-cli](https://github.com/sin
 
 While this specific util is macOS only, my main work computers are Windows 10 based. To have something similar when im in Windows, I made function which can be used in PowerShell (works in both Windows PowerShell and PowerShell 7.1 and newer). 
 
-It's heavily inspired by dark-mode-cli, and can be made more PowerShell-like by e.g. having switches and boolean return values instead of status strings, for my use this is sufficient. I execute this command manually whenever i feel my eyes need some rest or I need improved contrast from a light theme. You can of course set up scheduled tasks toggling darkmode automatically at specific times. 
+It's heavily inspired by dark-mode-cli, and can be made more PowerShell-like by e.g. having switches and boolean return values instead of status strings, for my use this is sufficient. I execute this command manually whenever i feel my eyes need some rest or I need improved contrast from a light theme. You can of course set up scheduled tasks toggling dark mode automatically at specific times. 
 
 # Usage
 

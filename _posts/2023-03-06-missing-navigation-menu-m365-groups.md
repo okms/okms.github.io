@@ -2,7 +2,7 @@
 layout: single
 title:  "Missing navigation menu in M365 Groups"
 date:   2023-03-06 09:00:00 +0100
-excerpt: ""
+excerpt: "Recently I stated getting reports from users who had problems with the navigation menu dissapearing from SharePoint Team sites. Users were redirected to `https://<tenant>.sharepoint.com/sites/<group>/_layouts/15/listallitems.aspx?app=teamsPage&listUrl=...` instead of the regular listview"
 header:
   overlay_filter: rgba(0, 0, 0, 0.6)
   show_overlay_excerpt: true

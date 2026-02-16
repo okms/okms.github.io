@@ -83,7 +83,7 @@ analytics:
 author:
   name     : "Ole Kristian Mørch-Storstein"
   avatar   : "/assets/img/okms-avatar.jpg"
-  bio      : "Engineer. Developer. Dad. Robot rights activist and occasional vampire hunter. CTO @ [Puzzlepart](https://puzzlepart.com) \n\n [📥 Public GPG/PGP key](/assets/okms-public.asc)"
+  bio      : "Engineer. Developer. Dad. Robot rights activist and occasional vampire hunter."
   twitter  : "okmsPrime"
   github   : "okms"
   linkedin : "olekms"
@@ -115,7 +115,8 @@ include: ["_pages"]
 exclude:
   - README.md
   - Gemfile
-  - Gemfile.lock  
+  - Gemfile.lock
+  - vendor
 
 # Exclude from processing.
 # The following items will not be processed, by default.

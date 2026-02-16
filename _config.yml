@@ -21,7 +21,7 @@
 title: "Ole Kristian Mørch-Storstein"
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Engineer. Developer. Dad. Robot rights activist and occasional vampire hunter.
+  Engineer. Developer. Dad. Robot rights hacktivist.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://okms.github.io"
 twitter_username: okmsPrime
@@ -83,7 +83,7 @@ analytics:
 author:
   name     : "Ole Kristian Mørch-Storstein"
   avatar   : "/assets/img/okms-avatar.jpg"
-  bio      : "Engineer. Developer. Dad. Robot rights activist and occasional vampire hunter."
+  bio      : "Engineer. Developer. Dad. Robot rights hacktivist."
   twitter  : "okmsPrime"
   github   : "okms"
   linkedin : "olekms"

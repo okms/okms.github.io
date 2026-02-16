@@ -24,7 +24,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   Engineer. Developer. Dad. Robot rights hacktivist.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://okms.github.io"
-twitter_username: okmsPrime
 github_username:  okms
 
 # Build settings
@@ -60,16 +59,13 @@ defaults:
       layout: single
       author_profile: true
 
-twitter:
-  username: "okmsPrime"
-
 og_image: /assets/img/okms-avatar.jpg
 
 social:
   type:  Person
   name:  "Ole Kristian Mørch-Storstein"
   links:
-    - "https://twitter.com/okmsPrime"
+    - "https://bsky.app/profile/okms.me"
     - "https://www.facebook.com/okstor"
     - "https://instagram.com/okstor"
     - "https://www.linkedin.com/in/olekms"
@@ -84,16 +80,15 @@ author:
   name     : "Ole Kristian Mørch-Storstein"
   avatar   : "/assets/img/okms-avatar.jpg"
   bio      : "Engineer. Developer. Dad. Robot rights hacktivist."
-  twitter  : "okmsPrime"
   github   : "okms"
   linkedin : "olekms"
 
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/okmsPrime"
+    - label: "Bluesky"
+      icon: "fas fa-fw fa-link"
+      url: "https://bsky.app/profile/okms.me"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/okms"

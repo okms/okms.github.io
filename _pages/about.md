@@ -8,4 +8,4 @@ Despite claims to the contrary, I'm an engineer based in Oslo, Norway. I work as
 
 This blog is begrudgingly generated as static html using Jekyll and the [minimal mistakes theme](https://mmistakes.github.io/minimal-mistakes)
 
-Feel free to contact me on [Twitter](https://twitter.com/okmsPrime) for any questions or comments! 
+Feel free to contact me on [Bluesky](https://bsky.app/profile/okms.me) for any questions or comments!
